@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exo1", "exo1\exo1.vcxproj", "{6600046A-B828-4157-B134-40451BEF519E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exo1", "exo1\exo1.vcxproj", "{6600046A-B828-4157-B134-40451BEF519E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exo2", "Exo2\Exo2.vcxproj", "{55688650-B751-4DF3-ADA0-3AE218265B2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{6600046A-B828-4157-B134-40451BEF519E}.Release|x64.Build.0 = Release|x64
 		{6600046A-B828-4157-B134-40451BEF519E}.Release|x86.ActiveCfg = Release|Win32
 		{6600046A-B828-4157-B134-40451BEF519E}.Release|x86.Build.0 = Release|Win32
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Debug|x64.ActiveCfg = Debug|x64
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Debug|x64.Build.0 = Debug|x64
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Debug|x86.Build.0 = Debug|Win32
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Release|x64.ActiveCfg = Release|x64
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Release|x64.Build.0 = Release|x64
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Release|x86.ActiveCfg = Release|Win32
+		{55688650-B751-4DF3-ADA0-3AE218265B2C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
